@@ -1,0 +1,1 @@
+Meta yang telah diubah hanya mengandung satu value yang berasal dari url google.co.id. Sebelumnya, terdapat berbagai variabel yang seharusnya dapat menampung data mengenai Sistem Informasi, Jurnal, dan Publikasi Ilmiah. Kedua meta data ini tidak memiliki pengaruh secara fisik pada lama html yang telah dibuat.

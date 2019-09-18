@@ -1,0 +1,13 @@
+body {
+font-family : Arial; }
+
+. kotak{
+background : black;
+width : 700px;
+float : left;
+height : 200px;
+}
+
+. gradient1{
+background : linear-gradient(blue, black);
+}
